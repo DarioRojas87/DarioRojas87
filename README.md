@@ -8,10 +8,11 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/dariorojas87/](https://www.linkedin.com/in/dariorojas87/)
 
 - 👨‍💻 Take a look at some of my work! (Web-apps in heroku, you can check the repositories too):
--  [MyTinerary](https://mytinerary-rojas.herokuapp.com/)
--  [Nutrimed](https://nutrimed.herokuapp.com/)
--  [Cozy](https://cozydeco.herokuapp.com/)
--  [PaseaDog](https://paseadog.herokuapp.com/)
+-  [MyTinerary](https://mytinerary-rojas.herokuapp.com/)(MERN Stack)
+-  [Nutrimed](https://nutrimed.herokuapp.com/)(MERN Stack)
+-  [Cozy](https://cozydeco.herokuapp.com/)(MERN Stack)
+-  [PaseaDog](https://paseadog.herokuapp.com/)(NODE)
+-  [U.S. Congress 113](https://dariorojas87.github.io/uscongress/)(JavaScript)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
