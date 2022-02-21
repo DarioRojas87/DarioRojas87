@@ -8,9 +8,9 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/dariorojas87/](https://www.linkedin.com/in/dariorojas87/)
 
 - 👨‍💻 Take a look at some of my work! (Web-apps in heroku, you can check the repositories too):
--  [MyTinerary](https://mytinerary-rojas.herokuapp.com/)(MERN Stack)
--  [Nutrimed](https://nutrimed.herokuapp.com/)(MERN Stack)
--  [Cozy](https://cozydeco.herokuapp.com/)(MERN Stack)
+-  [MyTinerary](https://mytinerary-rojas.herokuapp.com/)(MERN Stack Tourism site)
+-  [Nutrimed](https://nutrimed.herokuapp.com/)(MERN Stack Platform for medical center)
+-  [Cozy](https://cozydeco.herokuapp.com/)(MERN Stack Bazar E-Commerce)
 -  [PaseaDog](https://paseadog.herokuapp.com/)(NODE)
 -  [U.S. Congress 113](https://dariorojas87.github.io/uscongress/)(JavaScript)
 
