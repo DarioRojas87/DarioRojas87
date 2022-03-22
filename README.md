@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, my name is Darío Rojas</h1>
-<h3 align="center">a newly arrived Jr. MERN Full Stack developer, ready to take this city by storm</h3>
+<h3 align="center">a newly arrived MERN Full Stack developer, ready to take this city by storm</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/DarioRojas87?tab=repositories](https://github.com/DarioRojas87?tab=repositories)
 
